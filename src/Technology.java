@@ -1,6 +1,11 @@
+
 public class Technology {
 
-    public class addTechnology{
+String nazwaTechnologii;
+double bouns;
+public Technology(String nazwaTechnologii, double bouns){
+    this.nazwaTechnologii = nazwaTechnologii;
+    this.bouns = bouns;
+}
 
-    }
 }
